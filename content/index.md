@@ -1,9 +1,5 @@
-# Hello
+# Xin chào! Tôi là Lê Văn Quý
+Tôi có 4 năm kinh nghiệm phát triển frontend và 2 năm kinh nghiệm làm backend. Tìm hiểu thêm thông tin về tôi [Quy lv](/about).
 
-## I'm Piotr
-
-Read more [about me](/about), or see my latest [projects](/projects)
-
-## Latest on my blog
-
-::latest-blog-posts{:limit=3}
+## Bài viết mới nhất
+::latest-blog-posts{:limit=10}

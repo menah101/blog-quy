@@ -1,5 +1,4 @@
-# Projects
-
-Take a look at my GitHub projects
+# Dự Án
+Hãy xem các dự án GitHub của tôi
 
 ::project-list

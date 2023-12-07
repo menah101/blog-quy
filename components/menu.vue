@@ -2,13 +2,13 @@
   <nav class="font-mono">
     <ul class="flex flex-col md:flex-row md:space-x-4">
       <li>
-        <NuxtLink to="/" class="link">Home</NuxtLink>
+        <NuxtLink to="/" class="link">Trang Chủ</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/about" class="link">About</NuxtLink>
+        <NuxtLink to="/about" class="link">Giới Thiệu</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/projects" class="link">Projects</NuxtLink>
+        <NuxtLink to="/projects" class="link">Dự Án</NuxtLink>
       </li>
       <li>
         <NuxtLink to="/blog" class="link">Blog</NuxtLink>

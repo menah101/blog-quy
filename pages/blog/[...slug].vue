@@ -14,7 +14,7 @@
           </div>
           <div class="hidden md:col-span-2 md:block not-prose" v-if="doc.toc">
             <aside class="sticky top-8">
-              <div class="font-semibold mb-2">Table of Contents</div>
+              <div class="font-semibold mb-2 text-lg">Mục lục</div>
               <nav>
                 <TocLinks :links="doc.body?.toc?.links" :active-id="activeId" />
               </nav>

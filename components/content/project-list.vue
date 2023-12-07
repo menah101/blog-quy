@@ -1,7 +1,6 @@
 <script setup>
-const { error, pending, data } = await useFetch("https://api.github.com/users/piotr-jura-udemy/repos");
+const { error, pending, data } = await useFetch("https://api.github.com/users/menah101/repos");
 const repos = computed(
-  // hàm này dùng tính toán ==> sắp xếp các repositories theo số lượng stargazers (người dùng đánh dấu sao) giảm dần.
   () => data.value.filter((repo) => repo.description).sort((a, b) => b.stargazers_count - a.stargazers_count)
 );
 </script>

@@ -40,8 +40,8 @@ const posts = computed(() => {
   <slot :posts="posts">
     <section class="not-prose font-mono">
       <div class="column text-gray-400 text-sm">
-        <div>Date</div>
-        <div>Title</div>
+        <div>Năm</div>
+        <div>Tiêu đề bài viết</div>
       </div>
       <ul>
         <li v-for="post in posts" :key="post._path">
