@@ -1,6 +1,6 @@
 ---
 title: 'Tìm hiểu về Docker Phần 1'
-description: 'What a lovely page.'
+description: 'Docker là nền tảng cung cấp cho các công cụ, service để các developers, adminsystems có thể phát triển, thực thi, chạy các ứng dụng với containers'
 image:
   src: '/assets/image.jpg'
   alt: 'An image showcasing My Page.'
@@ -9,15 +9,15 @@ image:
 head:
   meta:
     - name: 'keywords'
-      content: 'nuxt, vue, content'
+      content: 'docker, tìm hiểu về Docker'
     - name: 'robots'
       content: 'index, follow'
     - name: 'author'
-      content: 'NuxtLabs'
+      content: 'Quyvl'
     - name: 'copyright'
-      content: '© 2022 NuxtLabs'
+      content: '© 2023 Quyvl'
     - name: 'og:title'
-      content: 'This is an OpenGraph title'
+      content: 'Tìm hiểu về docker'
 toc: true      
 publishedAt: 2023-12-07 13:15:00
 ---
